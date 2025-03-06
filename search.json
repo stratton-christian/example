@@ -4,6 +4,13 @@
     "href": "home.html",
     "title": "Example website",
     "section": "",
-    "text": "This is the landing page."
+    "text": "Some text.\nlink to Google"
+  },
+  {
+    "objectID": "home.html#header",
+    "href": "home.html#header",
+    "title": "Example website",
+    "section": "",
+    "text": "Some text.\nlink to Google"
   }
 ]
